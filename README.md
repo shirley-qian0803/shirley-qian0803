@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shirley-qian0803
+- 👋 Hi, I’m @jade-qian0803
 - 👀 I’m interested in a lot of things!
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on projects related to machine learning
